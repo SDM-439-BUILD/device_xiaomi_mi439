@@ -16,5 +16,5 @@ git clone https://github.com/SDM-439-BUILD/vendor_xiaomi_sdm439-common.git -b th
  git clone https://github.com/SDM-439-BUILD/vendor_xiaomi_mi439.git -b thirteen device/vendor/xiaomi/mi439
  
 # kernel 
- git clone https://github.com/pixel-devices/kernel_xiaomi_mi439.git -b thirteen device/kernel/xiaomi/mi439
+ git clone https://github.com/PixelExperience-Devices/kernel_xiaomi_mi439.git -b thirteen device/kernel/xiaomi/mi439
    
