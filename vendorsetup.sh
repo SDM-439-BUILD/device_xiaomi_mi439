@@ -10,10 +10,10 @@ sleep 1
 git clone https://github.com/SDM-439-BUILD/device_xiaomi_sdm439-common.git -b thirteen device/xiaomi/sdm439-common
 
 # vendor common 
-git clone https://github.com/pixel-devices-blobs/vendor_xiaomi_sdm439-common.git -b thirteen vendor/xiaomi/sdm439-common    
+git clone https://github.com/SDM-439-BUILD/vendor_xiaomi_sdm439-common.git -b thirteen vendor/xiaomi/sdm439-common    
  
 # vendor 
- git clone https://github.com/pixel-devices-blobs/vendor_xiaomi_mi439.git -b thirteen device/vendor/xiaomi/mi439
+ git clone https://github.com/SDM-439-BUILD/vendor_xiaomi_mi439.git -b thirteen device/vendor/xiaomi/mi439
  
 # kernel 
  git clone https://github.com/pixel-devices/kernel_xiaomi_mi439.git -b thirteen device/kernel/xiaomi/mi439
