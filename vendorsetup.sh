@@ -7,7 +7,7 @@ echo -e "${color}Applying patches${end}"
 sleep 1
 
 # common tree
-git clone https://github.com/pixel-devices/device_xiaomi_sdm439-common.git -b thirteen device/xiaomi/sdm439-common
+git clone https://github.com/SDM-439-BUILD/device_xiaomi_sdm439-common.git -b thirteen device/xiaomi/sdm439-common
 
 # vendor common 
 git clone https://github.com/pixel-devices-blobs/vendor_xiaomi_sdm439-common.git -b thirteen vendor/xiaomi/sdm439-common    
